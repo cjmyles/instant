@@ -1,16 +1,20 @@
 # Instant
 
-A collection of application boilerplates, CLI tools and NPM packages.
+`Instant` is a collection of application boilerplates, CLI tools and NPM packages, designed to enable the rapid development and deployment of applications on the Firebase platform.
+
+[React](#instant-react) and [Express](#instant-express) boilerplates utilise the suite of `instant` packages to enable routing, authentication/authorisation, state management, interaction with all Firebase services and more. Although the `instant` packages have been specifically tailored to work with these boilerplates, they could also be used in isolation in any project.
+
+The [`instant-tools`](#instant-tools) CLI can be used to create new applications (by cloning the relevant boilerplate), install dependencies, and generate project files such as new React components and Redux modules.
 
 ## Boilerplates
 
 ### [instant-react](https://github.com/cjmyles/instant-react)
 
-React boilerplate bundled with react-router, material-ui/bootstrap and redux, enabling the quick development and deployment of applications on the Firebase platform.
+React boilerplate bundled with react-router, material-ui/bootstrap and redux, enabling the rapid development and deployment of applications on the Firebase platform.
 
 ### [instant-express](https://github.com/cjmyles/instant-express)
 
-Express boilerplate bundled with API routing, enabling the quick development and deployment of applications on the Firebase platform.
+Express boilerplate bundled with API routing, enabling the rapid development and deployment of applications on the Firebase platform.
 
 ## NPM Packages
 
@@ -28,7 +32,7 @@ Core [`instant-express`](https://github.com/cjmyles/instant-express) functionali
 
 ### [instant-firestore](https://www.npmjs.com/package/instant-firestore)
 
-Firebase Firestore wrapper to ease common tasks, including creating, finding, updating and deleting documents.
+Firebase Firestore ORM to ease common tasks, such as creating, finding, updating and deleting documents.
 
 ### [instant-firestore-utils](https://www.npmjs.com/package/instant-firestore-utils)
 
@@ -36,7 +40,7 @@ Lightweight Firebase Firestore utility library.
 
 ### [instant-request](https://www.npmjs.com/package/instant-request)
 
-Client/server agnostic http request library.
+Client/server agnostic Http Request library utilising the `fetch` API.
 
 ### [instant-utils](https://www.npmjs.com/package/instant-utils)
 
