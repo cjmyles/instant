@@ -10,7 +10,7 @@ The [`instant-tools`](#instant-tools) CLI can be used to create new applications
 
 ### [instant-react](https://github.com/cjmyles/instant-react)
 
-React boilerplate bundled with react-router, material-ui/bootstrap and redux, enabling the rapid development and deployment of applications on the Firebase platform.
+React boilerplate bundled with [React Router](https://github.com/ReactTraining/react-router), [Material-UI](https://material-ui.com/) (with support for [Bootstrap](https://getbootstrap.com/)), layouts, and Redux ([Redux Thunk](https://github.com/reduxjs/redux-thunk) implementing [Ducks](https://github.com/erikras/ducks-modular-redux) with optional [localstorage persistence](https://www.npmjs.com/package/redux-localstorage)). Integrates seemlessly with the [Firebase](https://firebase.google.com/) platform to enable services such as [Firebase Authentication](https://firebase.google.com/docs/auth/), [Cloud Firestore](https://firebase.google.com/docs/firestore/), [Cloud Storage](https://firebase.google.com/docs/storage/) and [Firebase Hosting](https://firebase.google.com/docs/hosting/).
 
 ### [instant-express](https://github.com/cjmyles/instant-express)
 
@@ -24,11 +24,11 @@ Command Line Tools for assisting with creating [`instant`](https://github.com/cj
 
 ### [instant-react-core](https://www.npmjs.com/package/instant-react-core)
 
-Core [`instant-react`](https://github.com/cjmyles/instant-react) functionality, including components, forms, redux modules, firebase connectivity and utilities.
+Core [`instant-react`](https://github.com/cjmyles/instant-react) functionality, including components, forms, Redux modules, Firebase connectivity and utilities.
 
 ### [instant-express-core](https://www.npmjs.com/package/instant-express-core)
 
-Core [`instant-express`](https://github.com/cjmyles/instant-express) functionality, including routing, authentication, session, firebase connectivity and utilities.
+Core [`instant-express`](https://github.com/cjmyles/instant-express) functionality, including routing, authentication, session, Firebase connectivity and utilities.
 
 ### [instant-firestore](https://www.npmjs.com/package/instant-firestore)
 
