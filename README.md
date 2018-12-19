@@ -4,13 +4,13 @@
 
 [React](#instant-react) and [Express](#instant-express) boilerplates utilise the suite of `instant` packages to enable routing, authentication/authorisation, state management, interaction with all Firebase services and more. Although the `instant` packages have been specifically tailored to work with these boilerplates, they could also be used in isolation in any project.
 
-The [`instant-tools`](#instant-tools) CLI can be used to create new applications (by cloning the relevant boilerplate), install dependencies, and generate project files such as new React components and Redux modules.
+The [`instant-tools`](#instant-tools) CLI can be used to create new applications, install dependencies, and generate project files such as new React components and Redux modules.
 
 ## Boilerplates
 
 ### [instant-react](https://github.com/cjmyles/instant-react)
 
-React boilerplate bundled with [React Router](https://github.com/ReactTraining/react-router), [Material-UI](https://material-ui.com/) (with support for [Bootstrap](https://getbootstrap.com/)), layouts, and Redux ([Redux Thunk](https://github.com/reduxjs/redux-thunk) implementing [Ducks](https://github.com/erikras/ducks-modular-redux) with optional [localstorage persistence](https://www.npmjs.com/package/redux-localstorage)). Integrates seemlessly with the [Firebase](https://firebase.google.com/) platform to enable services such as [Firebase Authentication](https://firebase.google.com/docs/auth/), [Cloud Firestore](https://firebase.google.com/docs/firestore/), [Cloud Storage](https://firebase.google.com/docs/storage/) and [Firebase Hosting](https://firebase.google.com/docs/hosting/).
+React boilerplate bundled with [React Router](https://github.com/ReactTraining/react-router), [Material-UI](https://material-ui.com/), layouts, and Redux ([Redux Thunk](https://github.com/reduxjs/redux-thunk) implementing [Ducks](https://github.com/erikras/ducks-modular-redux) with optional [localstorage persistence](https://www.npmjs.com/package/redux-localstorage)). Integrates seemlessly with the [Firebase](https://firebase.google.com/) platform to enable services such as [Firebase Authentication](https://firebase.google.com/docs/auth/), [Cloud Firestore](https://firebase.google.com/docs/firestore/), [Cloud Storage](https://firebase.google.com/docs/storage/) and [Firebase Hosting](https://firebase.google.com/docs/hosting/).
 
 ### [instant-express](https://github.com/cjmyles/instant-express)
 
