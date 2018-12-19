@@ -24,19 +24,19 @@ Command Line Tools for assisting with creating [`instant`](https://github.com/cj
 
 ### [instant-react-core](https://www.npmjs.com/package/instant-react-core)
 
-Core [`instant-react`](https://github.com/cjmyles/instant-react) functionality, including components, forms, Redux modules, Firebase connectivity and utilities.
+Core [`instant-react`](https://github.com/cjmyles/instant-react) functionality, including components, forms, Redux modules, utilities and [Firebase](https://firebase.google.com/) integration.
 
 ### [instant-express-core](https://www.npmjs.com/package/instant-express-core)
 
-Core [`instant-express`](https://github.com/cjmyles/instant-express) functionality, including routing, authentication, session, Firebase connectivity and utilities.
+Core [`instant-express`](https://github.com/cjmyles/instant-express) functionality, including routing, authentication, session, utilities and [Firebase](https://firebase.google.com/) integration.
 
 ### [instant-firestore](https://www.npmjs.com/package/instant-firestore)
 
-Firebase Firestore ORM to ease common tasks, such as creating, finding, updating and deleting documents.
+[Firebase Cloud Firestore](https://firebase.google.com/docs/firestore/) ORM to ease common tasks such as creating, finding, updating and deleting documents.
 
 ### [instant-firestore-utils](https://www.npmjs.com/package/instant-firestore-utils)
 
-Lightweight Firebase Firestore utility library.
+Lightweight [Firebase Cloud Firestore](https://firebase.google.com/docs/firestore/) utility library.
 
 ### [instant-request](https://www.npmjs.com/package/instant-request)
 
